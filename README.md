@@ -57,16 +57,16 @@
 # ✔ 주간 학습 계획
 <table>
     <tr style="text-align: center">
-        <th>주차</th>
         <th>Chapter</th>
+        <th>주차</th>
         <th>Section</th>
         <th>주제</th>
         <th>Page</th>
     </tr>
     <!-- 1 주차 -->
     <tr style="text-align: center">
-        <td rowspan="2" style="font-weight:bold">1주차 <br/>(5/8 ~ 5/14)</td>
         <td  rowspan="2">1장<br/>디자인 패턴과 프로그래밍 패러다임</td>
+        <td rowspan="2" style="font-weight:bold; text-align:center">1주차 <br/>(5/8 ~ 5/14)</td>
         <td>1 Section</td>
         <td>디자인 패턴</td>
         <td>16 ~</td>
@@ -78,8 +78,8 @@
     </tr>
     <!-- 2 주차 -->
     <tr style="text-align: center">
-        <td rowspan="3" style="font-weight:bold">2주차 <br/>(5/15 ~ 5/21)</td>
         <td  rowspan="5">2장<br/>네트워크</td>
+        <td rowspan="3" style="font-weight:bold; text-align:center">2주차 <br/>(5/15 ~ 5/21)</td>
         <td>1 Section</td>
         <td>네트워크 기초</td>
         <td>68 ~</td>
@@ -96,7 +96,7 @@
     </tr>
     <!-- 3 주차 -->
     <tr style="text-align: center">
-        <td rowspan="4" style="font-weight:bold">3주차 <br/>(5/22 ~ 5/28)</td>
+        <td rowspan="4" style="font-weight:bold; text-align:center">3주차 <br/>(5/22 ~ 5/28)</td>
         <td>4 Section</td>
         <td>IP 주소</td>
         <td>105 ~</td>
@@ -119,7 +119,7 @@
     </tr>
     <!-- 4 주차 -->
     <tr style="text-align: center">
-        <td rowspan="3" style="font-weight:bold">4주차 <br/>(5/29 ~ 6/4)</td>
+        <td rowspan="3" style="font-weight:bold; text-align:center">4주차 <br/>(5/29 ~ 6/4)</td>
         <td>3 Section</td>
         <td>프로세스와 스레드</td>
         <td>157 ~</td>
@@ -137,7 +137,7 @@
     </tr>
     <!-- 5주차 -->
     <tr style="text-align: center">
-        <td rowspan="3" style="font-weight:bold">5주차 <br/>(6/5 ~ 6/11)</td>
+        <td rowspan="3" style="font-weight:bold; text-align:center">5주차 <br/>(6/5 ~ 6/11)</td>
         <td>2 Section</td>
         <td>ERD와 정규화 과정</td>
         <td>198 ~</td>
@@ -154,7 +154,7 @@
     </tr>
     <!-- 6주차 -->
     <tr style="text-align: center">
-        <td rowspan="3" style="font-weight:bold">6주차 <br/>(6/12 ~ 6/18)</td>
+        <td rowspan="3" style="font-weight:bold; text-align:center">6주차 <br/>(6/12 ~ 6/18)</td>
         <td>5 Section</td>
         <td>인덱스</td>
         <td>217 ~</td>
@@ -171,8 +171,8 @@
     </tr>
     <!-- 7주차 -->
     <tr style="text-align: center">
-        <td rowspan="3" style="font-weight:bold">7주차 <br/>(6/19 ~ 6/25)</td>
         <td  rowspan="5">5장<br/>자료 구조</td>
+        <td rowspan="3" style="font-weight:bold; text-align:center">7주차 <br/>(6/19 ~ 6/25)</td>
         <td>1 Section</td>
         <td>복잡도</td>
         <td>233 ~</td>
