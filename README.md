@@ -224,13 +224,13 @@
 - 운영체제 (전인혁) : [운영체제 시작하기](https://www.youtube.com/watch?v=CDVYs-sFOvs&t=872s)
 - 자료구조 (홍진식) : [선형, 비선형 자료구조](https://www.youtube.com/watch?v=eY21RiEX7Kw)
 
-### 2주차 (진행중)
+### 2주차 (완료)
 
 - 네트워크 (최영환) : [OSI 7계층 & TCP/IP 4계층](https://youtu.be/tXTfuEyt1A0)
 - 운영체제 (전인혁) : [프로세스와 스레드](https://youtu.be/UD_dOyD-g8A)
-- 자료구조 (홍진식) :
+- 자료구조 (홍진식) : [자료구조 (Map, HashMap)](https://youtu.be/duxP2diOJOk)
 
-### 3주차
+### 3주차 (진행중)
 
 - 네트워크 (최영환) :
 - 운영체제 (전인혁) :
